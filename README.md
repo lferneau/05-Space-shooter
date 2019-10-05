@@ -1,2 +1,2 @@
 # 05-Space-shooter
-A Space Shooter project for my Game Technology class
+A Space Shooter project for my Game Technology class. On top of the base requirements for the assignment, I've added sounds for bullets and defeating enemies alongside a victory indicator. I also added a music track too. I made it so that the player can no longer shoot after the game is finished. I messed around with a victory theme, but had some trouble with it that I've commented about in my code. 
