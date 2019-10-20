@@ -1,0 +1,38 @@
+Name: Omar Salinas
+Date: 10/19/2019
+Project: Space Shooter
+Peer's repository: https://github.com/lferneau/05-Space-shooter.git
+
+
+
+What is something you learned by reviewing your peer's project?
+By reviewing his repository I was able to find out how to add game sounds and music into the space shooter. 
+For example I could use the specific lines in python to help out with any future games I want to incorporate music or sound into. 
+
+What is something you saw in your peer's project that you would like to apply to your own programming projects?
+I would love to be able to fluently add sound effects into my future games and projects.
+ 
+
+What suggestions would you have for your peer to improve his/her code?
+I would say maybe to add more comments to help others that may use this repository or code.
+ 
+
+What could have been clearer or better commented?
+Maybe some more could have been added in the READ.md that explained the problems they were experiencing more in depth.
+ 
+
+Was there anything in the code that was confusing to you? If so, what?
+there was a phrase in line 94 that said "delta_time" and I was unfamiliar with that.
+ 
+
+Does the repository contain an appropriate LICENSE?
+Yes it does.
+ 
+
+What is something he/she could add to the README.md to make it more descriptive?
+In the lines where he said that he had problems adding the victory theme into, I would say he should had added the specific lines just for easy finding.
+ 
+
+Pay a compliment to your peer based on the quality of his/her code.
+This was a very well written code. The addition of music and sound effects really made the game seem more proffesional.
+I enjoyed the game and I liked how there was an end to the game as well.
